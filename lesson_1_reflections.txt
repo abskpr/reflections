@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I was able to pin point the mistake by seeing the differeces between the 
+    previous working file and buggy file.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having easy access to the entire history of a file system gives me control 
+    to see the revisions of the code and to track progress of the project. 
+    It also gives me ability to correct bugs or take an entirely different
+    path for development.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros : 
+    		1) Gives better commits as user can best decide when to commit.
+    		2) It will create less errors as commits will be meaningful.
+
+    Cons:
+    		1)User may forget to commit.
+    		2)User commit decisions are not always best.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   Vesion Control systems like git allow saving of multiple file in one commit, 
+   while others like Google Docs treat each file separately because git is mostly 
+   use for projects, where multiple files are related, while others like google 
+   plus are mostly used for single files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use git log command to view history of file by typing git log into git 
+    bash window. This command show all the commits during the history of the files. 
+    Git diff shows differences between two commits and can be invoked by using the 
+    command as git diff id1 id2.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would be a lot more confident to make changes that could break something since 
+    I can revert those changes using version control.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try git for android app development.
